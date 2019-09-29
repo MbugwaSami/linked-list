@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linkedList", "linkedList\linkedList.csproj", "{3671517D-9AD7-4115-BC65-79230C224190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linkedListTests", "linkedListTests\linkedListTests.csproj", "{895A17A1-4878-4DA0-B1EF-AE04075D9BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3671517D-9AD7-4115-BC65-79230C224190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3671517D-9AD7-4115-BC65-79230C224190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3671517D-9AD7-4115-BC65-79230C224190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3671517D-9AD7-4115-BC65-79230C224190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895A17A1-4878-4DA0-B1EF-AE04075D9BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895A17A1-4878-4DA0-B1EF-AE04075D9BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895A17A1-4878-4DA0-B1EF-AE04075D9BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895A17A1-4878-4DA0-B1EF-AE04075D9BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
